@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Vilas, a Backend Engineer at Amazon.
+
+Reach me on: [Twitter](https://twitter.com/thevilas28), [LinkedIn](https://www.linkedin.com/in/vilasgowda/)
+
 <!--
 **vilas1999/vilas1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
